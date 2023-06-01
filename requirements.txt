@@ -1,0 +1,8 @@
+networkx==3.0
+graphviz
+pygraphviz
+matplotlib
+scikit-learn==1.2.2
+scipy
+seaborn
+imblearn
